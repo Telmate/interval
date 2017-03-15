@@ -1,12 +1,11 @@
 # Interval
-We use intervals for scheduling of visits here at Telmate.
+Welcome to the Telmate Interval Challenge! Please fork and do the following:
 
-## Methods to Add to Class
+## Add some methods to the interval class
 
-## Write Some Pseudo-Code
+adjacent_to, union, intersection, +, -, between?, >, <, >=, <=, == or anything you can think of!
 
 
-## Potential Other Applications
-* Scheduling - we already use this
-* Hatching cycles - e.g. http://io9.gizmodo.com/5895840/why-do-cicadas-know-prime-numbers
-* English Premiere League fixtures - every team plays each other twice, home and away.  There are 20 teams.  Every year three teams are relegated from and promoted to the league.  Games are played weekly.  How can you apply intervals to a season?
+## Check out the issues
+
+We have some interview question like coding challenges there, we'd love to see your solutions!
